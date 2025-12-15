@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Pratik Naik
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=440&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Computer+Vision+Researcher+%F0%9F%94%AC;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Building+the+Future+with+AI+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=440&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Deep+Learning%F0%9F%94%AC" alt="Typing SVG" />
 
 ### 🎓 B.Tech AIML Student at Walchand College of Engineering, Sangli
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-naik-067b22314)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikp0241@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik872-bit)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik-naik003)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -24,10 +24,6 @@
 
 🎓 **B.Tech in AI & ML** student at **Walchand College of Engineering, Sangli**  
 💡 Passionate about building **real-world AI projects** that make an impact  
-🌟 Active **problem solver** sharpening skills on LeetCode  
-🚀 Love combining **AI/ML** with **Full Stack Development**  
-🔬 Research interests in **Computer Vision** & **Generative AI**  
-📊 Building **domain-specific AI models** for real-world problems  
 
 <br clear="both">
 
@@ -41,7 +37,7 @@
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100" />
       <br><b>AI & Machine Learning</b>
-      <br><sub>Building intelligent systems</sub>
+      <br><sub>Deep Learning</sub
     </td>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" height="100" />
@@ -50,8 +46,8 @@
     </td>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" height="100" />
-      <br><b>Computer Vision</b>
-      <br><sub>Visual AI research</sub>
+      <br><b>Generative AI</b>
+      <br><sub>Gen AI  </sub
     </td>
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" height="100" />
@@ -107,12 +103,12 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratik872-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik872-bit&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratik-naik003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-naik003&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik872-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-naik003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik872-bit&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-naik003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -125,9 +121,8 @@
 <img align="right" alt="Working" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
 - 🚌 **Classical Machine Learning** - Mastering fundamental ML algorithms
-- 📚 **Domain-Specific AI Models** - Building specialized AI solutions
 - 💻 **DSA on LeetCode** - Sharpening algorithmic thinking and problem-solving skills
-- 🔬 **Computer Vision Research** - Exploring generative AI applications
+- 🔬 **Exploring Neural Networks** - Exploring Neural network  archiectures
 - 🌐 **Full Stack Projects** - Building real-world MERN stack applications
 
 <br clear="both">
@@ -147,16 +142,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" /> **Building Projects that Matter** <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pratik872-bit/Pratik872-bit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 📫 Let's Connect!
 
@@ -181,7 +166,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<img src="https://komarev.com/ghpvc/?username=Pratik872-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=pratik-naik003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
