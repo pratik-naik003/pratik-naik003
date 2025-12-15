@@ -27,39 +27,6 @@
 
 <br clear="both">
 
----
-
-## 🎯 What I'm Exploring
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100" />
-      <br><b>AI & Machine Learning</b>
-      <br><sub>Deep Learning</sub
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" height="100" />
-      <br><b>MERN Stack</b>
-      <br><sub>Full-stack web development</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" height="100" />
-      <br><b>Generative AI</b>
-      <br><sub>Gen AI  </sub
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" height="100" />
-      <br><b>Backend Systems</b>
-      <br><sub>Node.js & Express</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
