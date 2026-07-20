@@ -9,6 +9,22 @@
 </p>
 
 ---
+---
+
+## 💼 Experience
+
+<h4 align="center">AI Research Intern @ National Institute of Technology (NIT) Patna</h4>
+<p align="center"><i>Mar 2026 – Apr 2026 | Remote</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open3D-Point_Cloud_Pipeline-00ADD8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-ICP_%7C_RANSAC_%7C_DBSCAN-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-PointNet_%7C_PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+<p align="center">
+  Built a 3D point cloud processing pipeline using Open3D for change detection and registration. Implemented data preprocessing using ICP, RANSAC, KD-Tree, and DBSCAN. Explored PointNet and PyTorch for point cloud feature extraction and classification.
+</p>
 
 ## 🚀 Open Source Contributions
 
@@ -21,18 +37,14 @@
   Contributed to DeepChem by resolving a reported issue and submitting a pull request[cite: 1].
 </p>
 
----
-
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,nodejs,express,react,fastapi&perline=10" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,react,nextjs,nodejs,express,fastapi&perline=11" height="60" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,vercel,docker,linux&perline=10" height="60" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,vercel,docker,linux,aws,tensorflow,pytorch&perline=11" height="60" />
 </p>
-
----
 
 ## ⚙️ What I've Built
 
