@@ -1,153 +1,94 @@
-<div align="center">
-  
-# 👋 Hi, I'm Pratik Naik
+<h1 align="center">Hey! Pratik here 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;GenAI+%26+Deep+Learning+%F0%9F%94%AC;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+<h3 align="center">
+  AI/ML Enthusiast &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; GenAI & Deep Learning
+</h3>
 
-### 🎓 B.Tech in Artificial Intelligence And Machine Learning at Walchand College of Engineering, Sangli[cite: 1]
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-naik-067b22314)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p0241naik@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratik-naik003)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pratik-naik003/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
+<p align="center">
+  I build real-world AI platforms and scalable systems to make a meaningful impact.
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Open Source Contributions
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🎓 **B.Tech in Artificial Intelligence And Machine Learning** (2024-2028) at **Walchand College of Engineering, Sangli** with an 8.07/10 CGPA[cite: 1].  
-💡 Passionate about building real-world AI platforms, agentic workflows, and scalable full-stack applications[cite: 1].  
-
-<br clear="both">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🤖 AI/ML & Deep Learning
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🧠 GenAI & Vector DBs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-
-### 🛠️ Tools & Cloud Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <a href="https://github.com/pratik-naik003">
+    <img src="https://img.shields.io/badge/DeepChem_(Open_Source)-Resolved_Issue_%7C_ML_Codebases-00ADD8?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  Contributed to DeepChem by resolving a reported issue and submitting a pull request[cite: 1].
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 Tech Stack
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-naik003&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-naik003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-naik003&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,nodejs,express,react,fastapi&perline=10" height="60" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,vercel,docker,linux&perline=10" height="60" />
+</p>
 
 ---
 
-## 🧠 Featured Projects & Current Work
+## ⚙️ What I've Built
 
-<img align="right" alt="Working" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<h4 align="center">AI Platforms & Agentic Systems</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/ManahArogya-AI_Mental_Health_System-00ADD8?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Architecture-Chat_%26_Voice-4285F4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI_Frameworks-LangChain_%7C_LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-ChromaDB_%7C_FAISS_%7C_Pinecone-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
-- 🧠 **ManahArogya** - Built an AI-powered mental health support system featuring a multi-agent architecture with chat, voice interaction, and habit coaching[cite: 1].
-- 🏙️ **CivicEase** - Developed a smart civic issue reporting platform handling real-time complaint submission with FastAPI and an interactive dashboard[cite: 1].
-- 🔬 **Cancer Detection using Deep Learning** - Designed an ANN-based deep learning model using TensorFlow/Keras to predict cancer from structured medical data[cite: 1].
-- 💻 **DSA & Problem Solving** - Actively solving algorithmic challenges on LeetCode[cite: 1].
+<h4 align="center">Deep Learning & Machine Learning</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cancer_Detection-ANN_on_Medical_Data-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crop_Recommendation-Logistic_%7C_Tree_%7C_KNN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-LoRA_%7C_QLoRA_%7C_PEFT-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-Pandas_%7C_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-<br clear="both">
+<h4 align="center">Full Stack & Web Architecture</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/CivicEase-Smart_Issue_Reporting-2496ED?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_APIs-Node.js_%7C_FastAPI-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Deployments-Vercel_%7C_Render_%7C_HuggingFace-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> **Winner, RIT 2K26 Hackathon** (1st place among 450+ registered teams)[cite: 1] <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
-
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" /> **2nd Runner Up, WCE ACM National Hackathon** (Top 3 out of 350+ teams)[cite: 1] <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" />
-
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" /> **Solved 400+ DSA Problems** across various competitive programming platforms[cite: 1] <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" />
-
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" /> **Open Source Contributor** to DeepChem, resolving ML codebase issues[cite: 1] <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
-
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-naik-067b22314)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pratik-naik003/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p0241naik@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50" />
-
-</div>
+<h4 align="center">Achievements & Milestones</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Winner-RIT_2K26_Hackathon_(1st%2F450+)-FFD700?style=for-the-badge&logo=trophy&logoColor=white" />
+  <img src="https://img.shields.io/badge/2nd_Runner_Up-WCE_ACM_Hackathon-C0C0C0?style=for-the-badge&logo=acm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-400+_DSA_Questions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
 ---
 
-<div align="center">
-  
-### 💭 Quote of the Day
+## 💡 Contribution Graph
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratik-naik003/pratik-naik003/output/snake.svg" alt="snake contribution graph" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+---
 
-<img src="https://komarev.com/ghpvc/?username=pratik-naik003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+## 🌐 Connect
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratik-naik-067b22314" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://leetcode.com/u/pratik-naik003/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:p0241naik@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://github.com/pratik-naik003" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=100000&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</p>
