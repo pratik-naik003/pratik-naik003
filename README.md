@@ -94,9 +94,7 @@
   <a href="https://www.linkedin.com/in/pratik-naik-067b22314" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://leetcode.com/u/pratik-naik003/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="28" />
-  </a>
+ 
   <a href="mailto:p0241naik@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28" />
   </a>
