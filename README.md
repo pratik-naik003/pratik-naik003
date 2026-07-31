@@ -37,29 +37,18 @@
   Contributed to DeepChem by resolving a reported issue and submitting a pull request[cite: 1].
 </p>
 
-# 📊 GitHub Intelligence
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik-naik003&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik-naik003&theme=github_dark" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik-naik003&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik-naik003&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik-naik003&theme=github_dark" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik-naik003&theme=github_dark" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratik-naik003&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratik-naik003&theme=github_dark&utcOffset=5.5" width="48%" />
-</p>
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,react,nextjs,nodejs,express,fastapi&perline=11" height="60" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,vercel,docker,linux,aws,tensorflow,pytorch&perline=11" height="60" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratik-naik003&theme=github_dark" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratik-naik003&theme=github_dark&utcOffset=5.5" width="40%" />
 </p>
 
 ## ⚙️ What I've Built
