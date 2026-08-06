@@ -26,29 +26,23 @@
   Built a 3D point cloud processing pipeline using Open3D for change detection and registration. Implemented data preprocessing using ICP, RANSAC, KD-Tree, and DBSCAN. Explored PointNet and PyTorch for point cloud feature extraction and classification.
 </p>
 
-## 🚀 Open Source Contributions
+##  Open Source Contributions
 
 <p align="center">
-  <a href="https://github.com/pratik-naik003">
-    <img src="https://img.shields.io/badge/DeepChem_(Open_Source)-Resolved_Issue_%7C_ML_Codebases-00ADD8?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  Contributed to DeepChem by resolving a reported issue and submitting a pull request[cite: 1].
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratik-naik003&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-naik003&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik-naik003&theme=github_dark" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=pratik-naik003&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik-naik003&theme=github_dark" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratik-naik003&theme=github_dark" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-naik003&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratik-naik003&theme=github_dark" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratik-naik003&theme=github_dark&utcOffset=5.5" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratik-naik003&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ## ⚙️ What I've Built
