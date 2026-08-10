@@ -26,14 +26,13 @@
   Built a 3D point cloud processing pipeline using Open3D for change detection and registration. Implemented data preprocessing using ICP, RANSAC, KD-Tree, and DBSCAN. Explored PointNet and PyTorch for point cloud feature extraction and classification.
 </p>
 
-##  Open Source Contributions
+
+## 🌐 Open Source Contributions
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratik-naik003&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratik-naik003&layout=compact&theme=github_dark&hide_border=true"/>
+  <a href="https://github.com/pratik-naik003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-naik003&theme=github-dark-blue&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
