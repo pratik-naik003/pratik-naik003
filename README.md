@@ -30,12 +30,6 @@
 ## 🌐 Open Source Contributions
 
 <p align="center">
-  <a href="https://github.com/pratik-naik003">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-naik003&theme=github-dark-blue&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=pratik-naik003&theme=github-dark&hide_border=true"/>
 </p>
 
